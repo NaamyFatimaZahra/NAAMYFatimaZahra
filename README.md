@@ -82,7 +82,17 @@ public class Developer {
 
 ```
 <br/>
+## 📊 GitHub Activity
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=NaamyFatimaZahra&theme=high-contrast&hide_border=true&area=true&bg_color=0d1117&color=a855f7&line=c084fc&point=e9d5ff&custom_title=Contribution%20Graph)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
 
