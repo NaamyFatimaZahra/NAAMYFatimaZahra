@@ -4,9 +4,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-
-## 👩‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif">
 
 ```java
 public class Developer {
@@ -45,7 +43,7 @@ public class Developer {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 💻 Tech Stack
+## 💼 Tech Stack
 
 </div>
 
@@ -76,12 +74,6 @@ $techStack = [
 ?>
 ```
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,angular,html,css,tailwind,bootstrap,postgres,mysql,docker,git,github,grafana,figma&perline=9&theme=dark" />
-
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -108,24 +100,8 @@ $techStack = [
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaamyFatimaZahra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e9d5ff&langs_count=8" />
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=NaamyFatimaZahra&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e9d5ff&icon_color=c084fc" />
 
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<div align="center">
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-zahra-naamy)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaamyFatimaZahra)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatima.naamy@example.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/216649426-3a3c65f2-c4e9-4da5-8d3b-0d5f5e7c8e3a.gif" width="400">
-
-### ✨ *"Code with passion, innovate with purpose"* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=NaamyFatimaZahra&color=a855f7&style=flat-square&label=Profile+Views)
 
 </div>
