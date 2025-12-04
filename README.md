@@ -65,7 +65,7 @@ Features: {
 }
 Tech Stack: Java | Spring Boot | Hibernate | MySQL | Swagger
 ```
-🔗 [View Project](https://github.com/username/trackitall)
+🔗 [View Project](https://github.com/NAAMYFatimaZahra/trackitall)
 
 ### 📚 YouCourse - E-Learning Platform
 ```javascript
@@ -78,25 +78,7 @@ const features = {
 };
 // Tech Stack: HTML5 | TailwindCSS | JavaScript | PHP | MySQL
 ```
-🔗 [View Project](https://github.com/username/youcourse)
-
-## 💼 Experience
-
-```python
-experience = {
-    "position": "Cloud Development & Supervision Intern",
-    "company": "Dashy",
-    "location": "Casablanca",
-    "period": "May 2025 - Present",
-    "responsibilities": [
-        "Building Grafana dashboards for real-time monitoring",
-        "Setting up Azure Monitor alerts",
-        "Log analysis and optimization",
-        "Agile methodology (Kanban)"
-    ],
-    "stack": ["Grafana", "Azure Monitor", "Docker", "Git"]
-}
-```
+🔗 [View Project](https://github.com/NAAMYFatimaZahra/youcourse)
 
 ## 📊 GitHub Stats
 
@@ -116,4 +98,4 @@ experience = {
 
 ---
 
-⭐️ From [Fatima Zahra NAAMY](https://github.com/Fatima.Zahra.Naamy)
+⭐️ From [Fatima Zahra NAAMY](https://github.com/NaamyFatimaZahra)
