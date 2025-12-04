@@ -10,50 +10,57 @@
 </div>
 
 ```java
+@DeveloperProfile(
+    name = "Fatima Zahra NAAMY",
+    role = "Full Stack Developer",
+    location = "Agadir, Morocco"
+)
 public class Developer {
 
-    private String name = "Fatima Zahra NAAMY";
-    private String role = "Full Stack Developer";
-    private String location = "Agadir, Morocco";
+    private final String[] backendLanguages = {
+        "Java", "PHP"
+    };
 
-    // Backend Stack
-    private String[] backendLanguages = {"Java", "PHP"};
-    private String[] backendFrameworks = {
+    private final String[] backendFrameworks = {
         "Spring Boot", "Laravel", "Hibernate",
         "Spring Data JPA", "Spring AOP", "Spring MVC",
         "JEE", "Servlets"
     };
 
-    // Frontend Stack
-    private String[] frontendLanguages = {"JavaScript", "HTML5", "CSS3"};
-    private String[] frontendFrameworks = {
-        "Angular", "TailwindCSS", "Bootstrap", "JSP", "Ajax"
+    private final String[] frontendLanguages = {
+        "JavaScript", "HTML5", "CSS3"
     };
 
-    // Databases
-    private String[] databases = {"PostgreSQL", "MySQL"};
-
-    // Cloud & DevOps
-    private String[] cloudDevOps = {
-        "Azure Monitor", "Grafana", "Docker", "Git", "GitHub"
+    private final String[] frontendFrameworks = {
+        "Angular", "TailwindCSS",
+        "Bootstrap", "JSP", "Ajax"
     };
 
-    // Testing Tools
-    private String[] testingTools = {"JUnit", "Mockito"};
-
-    // Tools
-    private String[] developmentTools = {
-        "Swagger", "OpenAPI", "Jira", "Figma", "UML"
+    private final String[] databases = {
+        "PostgreSQL", "MySQL"
     };
 
-    private String currentWork = 
+    private final String[] cloudDevOps = {
+        "Azure Monitor", "Grafana", "Docker",
+        "Git", "GitHub"
+    };
+
+    private final String[] testingTools = {
+        "JUnit", "Mockito"
+    };
+
+    private final String[] developmentTools = {
+        "Swagger", "OpenAPI", "Jira",
+        "Figma", "UML"
+    };
+
+    private final String currentWork =
         "Cloud Infrastructure & Monitoring @ Dashy";
 
-    private String[] learning = {
+    private final String[] learning = {
         "Kubernetes", "Azure", "Microservices Architecture"
     };
 
-    // Contacts
     public String getEmail() {
         return "naamyfatimazahra@gmail.com";
     }
@@ -65,6 +72,12 @@ public class Developer {
     public String getPhone() {
         return "+212 624 290 648";
     }
+}
+
+@interface DeveloperProfile {
+    String name();
+    String role();
+    String location();
 }
 
 ```
