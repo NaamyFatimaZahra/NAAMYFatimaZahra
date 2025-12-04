@@ -11,7 +11,7 @@
 public class Developer {
     private String name = "Fatima Zahra NAAMY";
     private String role = "Full Stack Developer";
-    private String location = "Casablanca, Morocco";
+    private String location = "Agadir, Morocco";
     
     private String[] backend = {
         "Java", "Spring Boot", 
@@ -89,7 +89,7 @@ $techStack = [
 
 ## GitHub Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Fatima.Zahra.Naamy&theme=high-contrast&hide_border=true&area=true&bg_color=0d1117&color=a855f7&line=c084fc&point=e9d5ff&custom_title=Contribution%20Graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=NaamyFatimaZahra&theme=high-contrast&hide_border=true&area=true&bg_color=0d1117&color=a855f7&line=c084fc&point=e9d5ff&custom_title=Contribution%20Graph)
 
 </div>
 
