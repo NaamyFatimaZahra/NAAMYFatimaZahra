@@ -7,9 +7,10 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE4a3QxZWc0YW9lazhhaHAzdmQwYnl4ZHBlaGQ3aWJqMWJtMjg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
        alt="Coding" width="400">
-# 👋 Hi, I'm Fatima Zahra NAAMY
+<div>
+  #  Hi, I'm Fatima Zahra NAAMY
 
-### 🚀 Full Stack Developer | Agadir, Morocco 🇲🇦
+###  Full Stack Developer | Agadir, Morocco 🇲🇦
 
 > Passionate Full Stack Developer blending strong backend logic with intuitive frontend experiences.
 
@@ -52,11 +53,11 @@
 
 ---
 
-## 🚀 Currently Working On
+##  Currently Working On
 
-- 🔭 Cloud Infrastructure & Monitoring solutions at **Dashy**
+- Cloud Infrastructure & Monitoring solutions at **Dashy**
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -64,28 +65,13 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
----
-
-⭐️ From [Fatima Zahra NAAMY](https://github.com/YOUR_USERNAME)
-\`\`\`
-
-Copie ce code Markdown directement dans ton fichier `README.md` sur GitHub. N'oublie pas de remplacer:
-- `YOUR_USERNAME` par ton nom d'utilisateur GitHub
-- `YOUR_LINKEDIN_URL` par ton lien LinkedIn
-- `YOUR_EMAIL` par ton email
-
-Les badges s'afficheront automatiquement avec les couleurs et logos correspondants.
 
 <br/>
 
