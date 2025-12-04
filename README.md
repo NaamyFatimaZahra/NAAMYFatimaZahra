@@ -6,7 +6,7 @@
 </div   align="center"  width="100%">
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE4a3QxZWc0YW9lazhhaHAzdmQwYnl4ZHBlaGQ3aWJqMWJtMjg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
-       alt="Coding" width="100%">
+       alt="Coding" width="400">
 </div>
 
 ```java
