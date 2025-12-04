@@ -4,47 +4,69 @@
 
 
 </div>
-<div align="center"> <img align="right" alt="Coding" width="400" height="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE4a3QxZWc0YW9lazhhaHAzdmQwYnl4ZHBlaGQ3aWJqMWJtMjg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE4a3QxZWc0YW9lazhhaHAzdmQwYnl4ZHBlaGQ3aWJqMWJtMjg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
+       alt="Coding" width="400">
+</div>
+
 ```java
 public class Developer {
+
     private String name = "Fatima Zahra NAAMY";
     private String role = "Full Stack Developer";
     private String location = "Agadir, Morocco";
-    
+
     // Backend Stack
     private String[] backendLanguages = {"Java", "PHP"};
     private String[] backendFrameworks = {
-        "Spring Boot", "Laravel", "Hibernate", 
-        "Spring Data JPA", "Spring AOP", "Spring MVC", 
+        "Spring Boot", "Laravel", "Hibernate",
+        "Spring Data JPA", "Spring AOP", "Spring MVC",
         "JEE", "Servlets"
     };
-    
+
     // Frontend Stack
     private String[] frontendLanguages = {"JavaScript", "HTML5", "CSS3"};
     private String[] frontendFrameworks = {
         "Angular", "TailwindCSS", "Bootstrap", "JSP", "Ajax"
     };
-    
+
     // Databases
     private String[] databases = {"PostgreSQL", "MySQL"};
-    
-    // DevOps & Cloud
-    private String[] cloudDevOps = {"Azure Monitor", "Grafana", "Docker", "Git", "GitHub"};
-    
-    // Testing
-    private String[] testingTools = {"JUnit", "Mockito"};
-    
-    // Tools
-    private String[] developmentTools = {"Swagger", "OpenAPI", "Jira", "Figma", "UML"};
-    
-    private String currentWork = "Cloud Infrastructure & Monitoring @ Dashy";
-    
-    private String[] learning = {
-        "Kubernetes", 
-        "Azure", 
-        "Microservices Architecture"
+
+    // Cloud & DevOps
+    private String[] cloudDevOps = {
+        "Azure Monitor", "Grafana", "Docker", "Git", "GitHub"
     };
+
+    // Testing Tools
+    private String[] testingTools = {"JUnit", "Mockito"};
+
+    // Tools
+    private String[] developmentTools = {
+        "Swagger", "OpenAPI", "Jira", "Figma", "UML"
+    };
+
+    private String currentWork = 
+        "Cloud Infrastructure & Monitoring @ Dashy";
+
+    private String[] learning = {
+        "Kubernetes", "Azure", "Microservices Architecture"
+    };
+
+    // Contacts
+    public String getEmail() {
+        return "naamyfatimazahra@gmail.com";
+    }
+
+    public String getLinkedIn() {
+        return "linkedin.com/in/FatimaZahraNAAMY";
+    }
+
+    public String getPhone() {
+        return "+212 624 290 648";
+    }
 }
+
 ```
 <br/>
 
