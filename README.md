@@ -4,7 +4,6 @@
 </div>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif">
 
 ```java
 public class Developer {
