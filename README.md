@@ -14,7 +14,6 @@ const developer = {
         tools: ["Git", "Jira", "Swagger", "JUnit", "Mockito"]
     },
     
-    currentlyWorkingOn: "Cloud Infrastructure & Monitoring Solutions @ Dashy",
     currentlyLearning: ["Kubernetes", "Azure", "Microservices Architecture"],
     
     contact: {
